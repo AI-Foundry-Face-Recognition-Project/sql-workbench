@@ -8,24 +8,24 @@
 
 3.同意條款並繼續
 
-![](./README/img/5.png)
+![](./img/5.png)
 
 4.使用者與組織空白即可，接著下一步
 
-![](./README/img/6.png)
+![](./img/6.png)
 
 5.選擇 Install Default
 
-![](./README/img/7.png)
+![](./img/7.png)
 
 6.選擇安裝
 
-![](./README/img/8.png)
+![](./img/8.png)
 
 7.如果*Windows* UAC 要求相關權限，請同意
 
-![](./README/img/9.png)
+![](./img/9.png)
 
 8.點選完成結束安裝程序
 
-![](./README/img/10.png)
+![](./img/10.png)
