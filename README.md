@@ -14,6 +14,6 @@ typora-copy-images-to: ./README_file
 
 [	安裝步驟](https://github.com/AI-Foundry-Face-Recognition-Project/sql-workbench/blob/main/README/MDAC.md)
 
-2.安裝ODAC
+2.安裝ODBC
 
-​	[安裝步驟](https://github.com/AI-Foundry-Face-Recognition-Project/sql-workbench/blob/main/README/ODAC.md)
+​	[安裝步驟](https://github.com/AI-Foundry-Face-Recognition-Project/sql-workbench/blob/main/README/ODBC.md)
