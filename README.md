@@ -4,7 +4,7 @@ typora-copy-images-to: ./README_file
 
 # SQL-Workbench
 
-# How to run
+## How to run
 
 1.安裝MDAC
 
