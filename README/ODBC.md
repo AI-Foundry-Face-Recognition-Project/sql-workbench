@@ -25,7 +25,9 @@
 
    ![](https://github.com/AI-Foundry-Face-Recognition-Project/sql-workbench/blob/main/README/img/11.png)
 
-3. 同意條款並繼續![](https://github.com/AI-Foundry-Face-Recognition-Project/sql-workbench/blob/main/README/img/12.png)
+3. 同意條款並繼續
+
+   ![](https://github.com/AI-Foundry-Face-Recognition-Project/sql-workbench/blob/main/README/img/12.png)
 
 4. 選擇 typical然後下一步
 
