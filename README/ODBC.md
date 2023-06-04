@@ -41,6 +41,6 @@
 
    ![](https://github.com/AI-Foundry-Face-Recognition-Project/sql-workbench/blob/main/README/img/9.png)
 
-7. 點選完成結束安裝程序
+7. 點選完成結束安裝程式
 
    ![](https://github.com/AI-Foundry-Face-Recognition-Project/sql-workbench/blob/main/README/img/10.png)
