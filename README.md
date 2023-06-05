@@ -114,7 +114,7 @@ typora-copy-images-to: ./README_file
 
       ![image-20230605172314683](./README/img/18.png)
 
-      #####解決方案
+      ##### 解決方案
 
          1. 開啟控制台>地區>系統管理>非Unicode程式的語言>變更系統地區設定
 
