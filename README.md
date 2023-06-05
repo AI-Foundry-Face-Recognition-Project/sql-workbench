@@ -80,7 +80,7 @@ typora-copy-images-to: ./README_file
 
         ##### 解決方案
 
-        方案1.
+        方案1
 
          1. 選取 [檔案選項]>。
 
@@ -94,7 +94,7 @@ typora-copy-images-to: ./README_file
 
          5. 嘗試再次開啟或儲存遭到封鎖的檔案。
 
-        方案2.
+        方案2
 
          6. 對accdb點擊右鍵內容
 
