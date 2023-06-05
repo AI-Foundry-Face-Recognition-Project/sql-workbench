@@ -62,7 +62,7 @@ typora-copy-images-to: ./README_file
 
 ## 常見問題
 
-   10. 此中的活動內已對鎖 。 檢閱您的信任中心設定, 或連絡您的 IT 統管理員 
+   1. 此中的活動內已對鎖 。 檢閱您的信任中心設定, 或連絡您的 IT 統管理員 
 
       [Microsoft](https://learn.microsoft.com/zh-tw/office/troubleshoot/settings/file-blocked-in-office)
 
