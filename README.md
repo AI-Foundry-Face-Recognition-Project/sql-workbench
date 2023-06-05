@@ -96,11 +96,11 @@ typora-copy-images-to: ./README_file
 
         方案2
 
-         6. 對accdb點擊右鍵內容
+         1. 對accdb點擊右鍵內容
 
             ![image-20230605172314683](./README/img/1.png)
 
-         7.  勾選安全性中的解除封鎖
+         2. 勾選安全性中的解除封鎖
 
             ![image-20230605172314683](./README/img/1.png)
 
