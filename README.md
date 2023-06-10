@@ -25,7 +25,7 @@ typora-copy-images-to: ./README_file
 
    選項1. 透過reg檔案匯入
 
-   1. [下載reg文件](./sql_init.reg)
+   1. ![下載reg文件](./sql_init.reg)
 
    2. 執行reg文件並允許UAC
 
