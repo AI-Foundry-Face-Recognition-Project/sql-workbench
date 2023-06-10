@@ -13,7 +13,7 @@ typora-copy-images-to: ./README_file
 
 ### 安裝MDAC
 
-   ​安裝步驟](./README/MDAC.md)
+   ​[安裝步驟](./README/MDAC.md)
 
 ### 安裝ODBC	
 
