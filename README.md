@@ -17,7 +17,7 @@ typora-copy-images-to: ./README_file
 
 ### 安裝ODBC	
 
-   [安裝步驟](/README/ODBC.md)
+   [安裝步驟](./README/ODBC.md)
 
 ### 設定ODBC
 
