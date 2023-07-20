@@ -57,10 +57,10 @@ typora-copy-images-to: ./README_file
 
       ![image-20230605172314683](./README/img/29.png)
 
-​	9.點擊Test然後將Database設定為```database````
+​	9.點擊Test然後將Database設定為```database````  
       ![image-20230605172314683](./README/img/99.png)
 
-   10. 檢視ODBC資料管理員，如果使用者資料來源有**`AI-Foundry`**那麼匯入成功
+   10. 檢視ODBC資料管理員，如果使用者資料來源有**`AI-Foundry`**那麼匯入成功  
       ![image-20230605172314683](./README/img/28.png)
 
 ## 常見問題
